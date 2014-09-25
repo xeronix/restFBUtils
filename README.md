@@ -1,4 +1,4 @@
 restFBUtils
 ===========
 
-RestFB Util Samples
+Samples for using restFB API.
